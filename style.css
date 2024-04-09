@@ -7,29 +7,29 @@
     --text-color: #fff;
     --black: #fff;
 
-    font-family: 'StayPuft', sans-serif;
+    font-family: 'Space', sans-serif;
 }
 
 @font-face {
-    font-family: 'StayPuft', sans-serif;
+    font-family: 'Space', sans-serif;
   
-    font-family: "StayPuft";
-    src: url("fonts/StayPuft.ttf");
+    font-family: "Space";
+    src: url("fonts/Space.otf");
   
     }
 
 @font-face {
-    font-family: 'StayPuft', sans-serif;
+    font-family: 'Space', sans-serif;
       
-    font-family: "StayPuft";
-    src: url("fonts/StayPuft.ttf");
+    font-family: "Space";
+    src: url("fonts/Space.ttf");
       
     }
 
 body {
     position: relative;
     width: 100%;
-    font-family: "StayPuft", sans-serif;
+    font-family: "Space", sans-serif;
     font-size: 20px;
     background-color: #000;
     color: #fff;
@@ -70,7 +70,7 @@ a {
 
 .navbar .logo h2 {
     margin-left: 10px;
-    font-family: "StayPuft", sans-serif;
+    font-family: "Space", sans-serif;
 }
 
 .btn {
@@ -167,7 +167,7 @@ a {
 }
 
 .main_right_side h1 {
-    font-family: "StayPuft", sans-serif;
+    font-family: "Space", sans-serif;
     font-size: 79px;
     font-weight: 700;
     
@@ -283,7 +283,7 @@ a {
 }
 
 .title_container h1 {
-    font-family: "StayPuft", sans-serif;
+    font-family: "Space", sans-serif;
     margin-left: 10px;
     font-size: 55px;
 }
@@ -496,7 +496,7 @@ a {
 }
 
 .footer h1 {
-    font-family: "StayPuft", sans-serif;
+    font-family: "Space", sans-serif;
     font-size: 55px;
     text-align: center;
 }
